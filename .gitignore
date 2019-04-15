@@ -1,0 +1,17 @@
+/node_modules
+/public/storage
+/public/post
+/storage/*.key
+/vendor
+/.idea
+/laradock
+composer.lock
+Homestead.json
+Homestead.yaml
+composer123.lock
+.gitidnore
+public/messages_attachments
+.env
+.env.example
+composer.json
+composer.lock
